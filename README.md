@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
 <h1 align="center">Hi 👋, I'm Fahem Khakiki Khaya</h1>
-<h3 align="center">I'm a passionate 21 years old who has been a FullStack Web Developer for the last 2 years, I love to learn and explore new things to keep up to date with the tech industries</h3>
+<h3 align="center">I'm a passionate 21 years old who has been a FullStack Web Developer for the last 2 years, I love to learn and explore new things just for the sake of finding out how it works</h3>
 
 - 🌱 I’m currently learning **Ansible, Kubernetes**
 
